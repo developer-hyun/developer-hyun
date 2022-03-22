@@ -3,11 +3,9 @@
 ## 열심히 배우고 있는 초보 개발자입니다
 
 
-### <center>:seedling: Tech Stack :seedling:</center>
-
-## <center>Tech</center>
-
-
+<div align="center">
+  ### <center>:seedling: Tech Stack :seedling:</center>
+</div>
 
 
 <!--
