@@ -4,7 +4,7 @@
 
 
 ### <div align="center">
-    :seedling: Tech Stack :seedling:
+    Tech Stack
 </div>
 
 
