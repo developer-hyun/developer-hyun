@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### 열심히 배우고 있는 초보 개발자입니다
+
+
+### :seedling: Tech Stack
+
+
+
 
 <!--
 **developer-hyun/developer-hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
