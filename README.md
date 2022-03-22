@@ -14,7 +14,7 @@
 
 ### <div align="center"> 📞 CONTACK 📞 </div>
 
-<a href="https://rlckdrkdud.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/rlckdrkdud.tistiory.com-000000?style=plastic&logo=42&logoColor=FFFFFF"/></a>
+### <div align="center"> Tistiory: <a href="https://rlckdrkdud.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/rlckdrkdud.tistiory.com-000000?style=plastic&logo=42&logoColor=FFFFFF"/></a></div>
 
 
 
