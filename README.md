@@ -1,7 +1,7 @@
 # Hi there 👋   
-## 열심히 배우고 있는 초보 개발자입니다   
+### 열심히 배우고 있는 초보 개발자입니다   
 
-## <div align="center"> 🌱 Tech Stack 🌱 </div>
+### <div align="center"> 🌱 Tech Stack 🌱 </div>
 
 
 <!--
