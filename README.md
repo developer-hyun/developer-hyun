@@ -7,7 +7,7 @@
 ### <div align="center"> 🌱 Tech Stack 🌱 </div>
 #### <div align="center">  My Skill </div>
 
-<img src="https://img.shields.io/badge/#4aa8d8?style=flat-square&logo=simpleicons#007396&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#4aa8d8?style=flat-square&logo=simpleicons#007396&logoColor=white"/></a>
 
 
 <!--
