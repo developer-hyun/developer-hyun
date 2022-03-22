@@ -1,4 +1,4 @@
-<img src="https://Hyun.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://Hyun.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
 
 ### Hi there 👋  
 ### 열심히 배우고 있는 초보 개발자입니다  
