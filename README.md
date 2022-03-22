@@ -3,7 +3,7 @@
 ### 열심히 배우고 있는 초보 개발자입니다
 
 
-### :seedling: Tech Stack
+###                                          :seedling: Tech Stack :seedling:
 
 
 
