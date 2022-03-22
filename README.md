@@ -5,7 +5,7 @@
 
 
 
-<center>### :seedling: Tech Stack :seedling:</center>
+### <center>:seedling: Tech Stack :seedling:</center>
 
 
 
