@@ -8,8 +8,7 @@
 ### <div align="center">  My Skill </div>
 
 
-### <div align="center">
-  <img src="https://img.shields.io/badge/Java-6068AF?style=flat-square&logo=simpleicons#007396&logoColor=white"/></a><img src="https://img.shields.io/badge/Python-7060AF?style=flat-square&logo=simpleicons#3776AB&logoColor=white"/></a></div>
+### <div align="center"><img src="https://img.shields.io/badge/Java-6068AF?style=flat-square&logo=simpleicons#007396&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-7060AF?style=flat-square&logo=simpleicons#3776AB&logoColor=white"/></a></div>
 
 
 <!--
