@@ -1,10 +1,13 @@
 ### Hi there 👋  
 ### 열심히 배우고 있는 초보 개발자입니다  
+
 <br/><br/>
+
 ## 🦊 개발 지향점
 #### 여태까지는 기능 구현에만 중점을 두었다면 이제는 원리를 알아보자!
 
 <br/><br/>
+
 ### <div align="center"> 🌱 Tech Stack 🌱 </div>
 ### <div align="center">  My Skill </div>
 
